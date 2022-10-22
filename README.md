@@ -66,13 +66,13 @@ Design decisions for each igredient are based on **website personality**
 
 ### SARIF VS SANS-SARIF
 
-| SARIF                                                 | SANS-SARIF                                                 |
-| ----------------------------------------------------- | ---------------------------------------------------------- |
-| All Web Design Rules and Guidelines                   | Modern look and feel                                       |
-| Modern look and feel                                  | Clean and simple                                           |
-| Clean and simple                                      | Easier to choose for beginner designer                     |
-| ![sarif font](./images/sarif-font-family.png)         | ![sarif font](./images/sans-sarif-font-family.png)         |
-| ![sarif font](./images/sarif-font-family-example.png) | ![sarif font](./images/sans-sarif-font-family-example.png) |
+| SARIF                                                                | SANS-SARIF                                                                |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| All Web Design Rules and Guidelines                                  | Modern look and feel                                                      |
+| Modern look and feel                                                 | Clean and simple                                                          |
+| Clean and simple                                                     | Easier to choose for beginner designer                                    |
+| ![sarif font](./images/sarif-font-family.png)                        | ![sarif font](./images/sans-sarif-font-family.png)                        |
+| ![sarif font family example](./images/sarif-font-family-example.png) | ![sarif font family example](./images/sans-sarif-font-family-example.png) |
 
 ### USE GOOD TYPEFACES
 
