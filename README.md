@@ -55,7 +55,7 @@ Design decisions for each igredient are based on **website personality**
 6. **Startup/Upbeat:** Widely used in startups, featuring medium-sized sansserif typefaces, light-grey text and backgrounds, and rounded elements
 7. **Playful/Fun:** Colorful and round designs, fueled by creative elements like hand-drawn icons or illustrations, animations, and fun language
 
-## TYPOGRAPHY
+## \#1 TYPOGRAPHY
 
 > **Typography** is the art and technique
 > of arranging type to make written
