@@ -134,3 +134,55 @@ Design decisions for each igredient are based on **website personality**
 5. Usually, don’t justify text
 
 6. Don’t center long text blocks. Small blocks are fine
+
+## \#2 COLOR
+
+### CHOOSE THE RIGHT COLOR
+
+1. Make the main color **match your website’s personality**: colors convey meaning!
+
+   - **Red Color** draws a lot of attention, and symbolizes power, passion, and excitement
+   - **Orange Color** is less aggressive, and conveys happiness, cheerfulness, and creativity
+   - **Yellow Color** means joy, brightness, and intelligence
+   - **Green Color** represents harmony, nature, growth, and health
+   - **Blue Color** is associated with peace, trustworthiness, and professionalism
+   - **Purple Color** conveys wealth, wisdom, and magic
+   - **Pink Color** represents romance, care, and affection
+   - **Brown Color** is associated with nature, durability and comfort
+   - **Black Color** symbolizes power, elegance and minimalism, but also grief and sorrow
+
+2. Use a **good color tone!** Don’t choose a random tone or CSS named colors
+
+   **_TOOLBOX:_** [Open Color](https://yeun.github.io/open-color/), [Tailwindcss](https://tailwindcss.com/docs/customizing-colors), [Flast UI Color2](https://flatuicolors.com/)
+
+### ESTABLISH A COLOR SYSTEM
+
+1. You need at least two types of colors in your **color palette:** a **main color** and a **grey color**
+
+   - Grey color can be dark version of every color
+
+2. With more experience, you can add more colors: **accent (secondary) colors** (use a tool)
+
+3. For diversity, create lighter and darker “versions” **(tints and shades)**
+
+   - Tints means **lighter** version
+   - Shasdes means **darker** version
+
+   **_TOOLBOX:_** [Tinst And Shade Generator](https://maketintsandshades.com/), [Paletton](https://paletton.com/), [Coolors](https://coolors.co/)
+
+### WHEN ADN HOW TO USE COLORS
+
+1. Use your main color to **draw attention** to the most important elements on the page
+
+2. Use colors to add **interesting accents** or make **entire components or sections** stand out
+
+3. You can try to use your color strategically in **images and illustrations**
+
+### COLORS AND TYPOGRAPHY
+
+1. On dark colored backgrounds, try to **use a tint of the background** (“lighter version”) for text
+
+2. Text should usually not be completely black. **Lighten if up** it looks heavy and uninviting
+
+3. **Don’t make text too light!** Use a tool to check contrast between text and background colors
+   - Contrast ratio needs to be at least **4.5:1 for normal text** and **3:1 for large text** (18px+)
