@@ -190,3 +190,46 @@ Design decisions for each igredient are based on **website personality**
 
 3. **Don’t make text too light!** Use a tool to check contrast between text and background colors
    - Contrast ratio needs to be at least **4.5:1 for normal text** and **3:1 for large text** (18px+)
+
+## \#3 IMAGES
+
+### USE GOOD IMAGES
+
+1. Different types of images: **product photos**, **storytelling photos**, **illustrations**, **patterns**
+
+2. Use images to support your **website’s message and story**. So only use relevant images!
+
+3. Prefer **original images**. If not possible, use **original-looking** stock images (not generic ones!)
+
+   **_TOOLBOX:_** [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [DrawKit](https://www.drawkit.com/)
+
+### USE IMEGES WELL
+
+1. Try to show **real people** to trigger user’s emotions
+
+2. If necessary, **crop images** to fit your message
+
+3. Experiment **combining** photos, illustrations and patterns
+
+### HANDLING TEXT ON IMGES
+
+1. **Method #1:** Darker or brighten image (completely or partially, using a gradient)
+
+2. **Method #2:** Position text into neutral image area
+
+3. **Method #3:** Put text in a box
+
+### SOME TECHNICAL DETAILS
+
+1. To account for **high-res screens**, make image dimensions **2x as big** as their displayed size
+
+   - **Scale factor:** Actual pixels the screen contains / Pixels
+
+   - On high-res screens, scale factor is **2x** or even **3x**, on “normal”
+     screens it’s just **1x** (1 physical pixel = 1 design pixel) represented on screen
+
+2. **Compress images** for a lower file size and better performance
+
+   **_TOOLBOX:_** [Squoosh](https://squoosh.app/)
+
+3. When using multiple images side-by-side, make sure they have the **exact same dimensions**
