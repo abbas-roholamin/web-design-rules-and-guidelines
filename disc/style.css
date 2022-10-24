@@ -9,6 +9,30 @@
  * @format
  */
 
+:root {
+  --teal-50: #e6fcf5;
+  --teal-100: #c3fae8;
+  --teal-200: #96f2d7;
+  --teal-300: #63e6be;
+  --teal-400: #38d9a9;
+  --teal-500: #20c997;
+  --teal-600: #12b886;
+  --teal-700: #0ca678;
+  --teal-800: #099268;
+  --teal-900: #087f5b;
+  --gray-50: #f8f9fa;
+  --gray-100: #f1f3f5;
+  --gray-200: #e9ecef;
+  --gray-300: #dee2e6;
+  --gray-400: #ced4da;
+  --gray-500: #adb5bd;
+  --gray-600: #868e96;
+  --gray-700: #495057;
+  --gray-800: #343a40;
+  --gray-900: #212529;
+  --white: #fff;
+  --black: #000;
+}
 * {
   margin: 0;
   padding: 0;
