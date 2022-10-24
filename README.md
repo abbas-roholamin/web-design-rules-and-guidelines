@@ -233,3 +233,42 @@ Design decisions for each igredient are based on **website personality**
    **_TOOLBOX:_** [Squoosh](https://squoosh.app/)
 
 3. When using multiple images side-by-side, make sure they have the **exact same dimensions**
+
+## \#4 ICONS
+
+### USE GOOD ICONS
+
+1. Use a good **icon pack**, there are tons of **free** and paid icons packs
+
+   - You can just use emojis too 😁
+
+   **_TOOLBOX:_** [Phosphor Icon](https://phosphoricons.com/), [Ionicons](https://ionic.io/ionicons), [Icon8](https://icons8.com/)
+
+2. Use only one icon pack. **Don’t mix** icons from different icon packs
+
+3. Use **SVG icons** or **icon fonts**. Don’t use bitmap image formats (.jpg and .png)!
+
+   | VECTOR-BASE              | BITMAP                          |
+   | ------------------------ | ------------------------------- |
+   | SVG icons and icon fonts | “Regular images”: JPG, PNG, GIF |
+   | Scale indefinitely!      | Do not scale, become unsharp!   |
+
+4. Adjust to website personality! **Roundness**, **weight** and **filled/outlined** depend on typography
+
+### WHEN TO USE ICONS
+
+1. Use icons to **provide visual assistance** to text
+
+2. Use icons for **product feature blocks**
+
+3. Use icons **associated with actions**, and **label them** (unless no space or icon is 100% clear)
+
+4. Use icons as **bullet points**
+
+### USE ICONS WELL
+
+1. To keep icons neutral, **use same color as text**. To draw more attention, use **different color**
+
+2. Don’t confuse your users: icons need to make sense and **fit the text or action!**
+
+3. Don't make icons larger than what they **were designed for**. If needed, **enclose them in a shape**
