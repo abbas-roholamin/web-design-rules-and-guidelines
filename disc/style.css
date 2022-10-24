@@ -44,6 +44,8 @@
 /* ------------------------ */
 body {
   font-family: "Inter", sans-serif;
+  color: var(--gray-800);
+  border-bottom: var(--teal-900) solid 8px;
 }
 
 .container {
@@ -67,6 +69,30 @@ h2 {
   column-gap: 80px;
 }
 
+.btn--big {
+  font-size: 18px;
+  padding: 18px 32px;
+}
+
+.btn--small {
+  font-size: 14px;
+  padding: 8px 12px;
+}
+
+.btn:link,
+.btn:visited {
+  background-color: var(--teal-900);
+  color: var(--white);
+  font-weight: 500;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+.btn:hover,
+.btn:active {
+  background-color: var(--teal-800);
+}
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
@@ -117,6 +143,9 @@ img {
 
 /* TESTIMONIAL */
 .testimonial-section {
+  background-color: var(--teal-900);
+  color: var(--white);
+  padding: 24px;
 }
 
 .testimonial-box {
@@ -174,4 +203,5 @@ h3 {
 footer {
   margin-bottom: 48px;
   font-size: 14px;
+  color: var(--gray-800);
 }
