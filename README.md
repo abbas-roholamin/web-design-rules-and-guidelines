@@ -62,7 +62,7 @@ Design decisions for each igredient are based on **website personality**
 > language **legible**, **readable** and **appealing**
 > when displayed
 >
-> \- Wikipedia
+> _\- Wikipedia_
 
 ### SARIF VS SANS-SARIF
 
@@ -76,58 +76,61 @@ Design decisions for each igredient are based on **website personality**
 
 ### USE GOOD TYPEFACES
 
-1.  Use only good and popular typefaces and play it safe
+1. Use only good and popular typefaces and play it safe
 
-            SANS-SARIF
-            - Inter
-            - Open Sans
-            - Roboto
-            - Montserrat
-            - Work Sans
-            - Lato
+   **SANS-SARIF**
 
-            SARIF
-            - Merriweather
-            - Aleo
-            - Playfair Display
-            - Cormorant
-            - Cardo
-            - Lora
+   - Inter
+   - Open Sans
+   - Roboto
+   - Montserrat
+   - Work Sans
+   - Lato
 
-    **_TOOLBOX:_** [Google Font](https://fonts.google.com/), [Font Squirrel](https://www.fontsquirrel.com/)
+   **SARIF**
 
-2.  It’s okay to use just **one typeface** per page! If you want more, limit to **2 typefaces**
-3.  Choose the **right typeface** according to your **website personality**
+   - Merriweather
+   - Aleo
+   - Playfair Display
+   - Cormorant
+   - Cardo
+   - Lora
 
-    - Choose the right personality for your website
-    - Decide between a serif and sans-serif typeface
-    - Experiment with all the “good” typefaces (and other typefaces from Google Fonts!) to see which ones best fits your website’s message (this will come with experience)
-    - You can keep trying different typefaces as you design and build the page
+     **_TOOLBOX:_** [Google Font](https://fonts.google.com/), `[Font Squirrel](https://www.fontsquirrel.com/)
+
+2. It’s okay to use just **one typeface** per page! If you want more, limit to **2 typefaces**
+3. Choose the **right typeface** according to your **website personality**
+
+   - Choose the right personality for your website
+   - Decide between a serif and sans-serif typeface
+   - Experiment with all the “good” typefaces (and other typefaces from Google Fonts!) to see which ones best fits your website’s message (this will come with experience)
+   - You can keep trying different typefaces as you design and build the page
 
 ### USE GOOD FONT SIZES ADN WEIGHTS
 
-4. When choosing font-sizes, **limit choices!** Use a **“type scale” tool** or other **pre-defined range**
+1. When choosing font-sizes, **limit choices!** Use a **“type scale” tool** or other **pre-defined range**
 
-5. Use a font size between 16px and 32px for **“normal” text**
+2. Use a font size between 16px and 32px for **“normal” text**
 
-6. For **long text** (like a blog post), try a size of 20px or even bigger
+3. For **long text** (like a blog post), try a size of 20px or even bigger
 
-7. For **headlines**, you can go really big (50px+) and bold (600+), **depending on personality**
+4. For **headlines**, you can go really big (50px+) and bold (600+), **depending on personality**
 
-8. For any text, don’t use a font weight under 400 (regular)
+5. For any text, don’t use a font weight under 400 (regular)
 
 ### CREATE A GOODING EXPERIENCE
 
-9. Use less than 75 characters per line
-10. For normal-sized text, use a line height between 1.5 and 2. For big text, go below 1.5
+1. Use less than 75 characters per line
 
-    - The **smaller** or **longer** the text, the **larger** the line
-      height needs to be
+2. For normal-sized text, use a line height between 1.5 and For big text, go below 1.5
 
-11. Decrease letter spacing in headlines, if it looks unnatural (this will come from experience)
+   - The **smaller** or **longer** the text, the **larger** the line
+     height needs to be
 
-12. Experiment with all caps for short titles. Make them small and bold and increase letter-spacing
+3. Decrease letter spacing in headlines, if it looks unnatural (this will come from experience)
 
-13. Usually, don’t justify text
+4. Experiment with all caps for short titles. Make them small and bold and increase letter-spacing
 
-14. Don’t center long text blocks. Small blocks are fine
+5. Usually, don’t justify text
+
+6. Don’t center long text blocks. Small blocks are fine
