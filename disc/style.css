@@ -87,12 +87,14 @@ h2 {
   text-decoration: none;
   text-transform: uppercase;
   display: inline-block;
+  border-radius: 100px;
 }
 
 .btn:hover,
 .btn:active {
   background-color: var(--teal-800);
 }
+
 /* ------------------------ */
 /* COMPONENT STYLES */
 /* ------------------------ */
@@ -125,6 +127,7 @@ h1 {
 
 img {
   width: 100%;
+  border-radius: 12px;
 }
 
 /* FEATURES */
@@ -150,6 +153,7 @@ img {
   background-color: var(--teal-900);
   color: var(--white);
   padding: 24px;
+  border-radius: 12px;
 }
 
 .testimonial-box {
@@ -172,7 +176,14 @@ img {
 /* CHAIRS */
 .chair {
   box-shadow: 0px 20px 30px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 12px;
 }
+
+.chair img {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
 .chair-box {
   padding: 24px;
 }
