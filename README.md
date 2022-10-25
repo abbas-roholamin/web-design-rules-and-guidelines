@@ -272,3 +272,36 @@ Design decisions for each igredient are based on **website personality**
 2. Don’t confuse your users: icons need to make sense and **fit the text or action!**
 
 3. Don't make icons larger than what they **were designed for**. If needed, **enclose them in a shape**
+
+## \#4 SHADOW
+
+### SOME CONCEPTS FIRST
+
+1. After an era of 100% flat design, we’re now **back to using shadows** in UI design (“flat design 2.0”)
+
+2. **Shadow creates depth (3D):** the more shadow, the **further away from the interface** the element is
+
+   - Shadow can be used on **boxes** and **text**
+
+### USE SHADOWS WELL
+
+1. You **don’t have to use shadows!** Only use them if it makes sense for the **website personality**
+
+   - Less shadow for peronality like **SERIOUS** or **ELEGANT** website
+   - More shadow for personality like **PLAYFUL** or **FUN** website
+
+2. Use shadows in **small doses:** don’t add shadows to every element!
+
+3. Go **light** on shadows, don’t make them **too dark!**
+
+### USE SHADOWS IN THE RIGHT SITUATION
+
+1. Use **small shadows** for smaller elements that should stand out (to draw attention)
+
+2. Use **medium-sized shadows** for larger areas that should stand out a bit more
+
+3. Use **large shadows** for elements that should really **float above** the interface
+
+4. Experiment with **changing shadows** on mouse interaction (click and hover)
+
+5. Bonus: Experiment with **glows** (colored shadows)
