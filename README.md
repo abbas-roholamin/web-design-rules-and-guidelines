@@ -273,7 +273,7 @@ Design decisions for each igredient are based on **website personality**
 
 3. Don't make icons larger than what they **were designed for**. If needed, **enclose them in a shape**
 
-## \#4 SHADOW
+## \#5 SHADOW
 
 ### SOME CONCEPTS FIRST
 
@@ -305,3 +305,16 @@ Design decisions for each igredient are based on **website personality**
 4. Experiment with **changing shadows** on mouse interaction (click and hover)
 
 5. Bonus: Experiment with **glows** (colored shadows)
+
+## \#6 BORDER-RADIUS
+
+### USE BORDER-RADIUS WELL
+
+1. Use border-radius to **increase the playfulness** and fun of the design, to make it **less serious**
+
+   - Less border-radius for peronality like **SERIOUS** or **ELEGANT** website
+   - More border-radius for personality like **PLAYFUL** or **FUN** website
+
+2. Typefaces have a certain roundness: make sure that border-radius **matches that roundness!**
+
+3. Use border-radius on **buttons**, **images**, **around icons**, **standout sections** and **other elements**
