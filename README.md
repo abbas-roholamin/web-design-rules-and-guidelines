@@ -318,3 +318,37 @@ Design decisions for each igredient are based on **website personality**
 2. Typefaces have a certain roundness: make sure that border-radius **matches that roundness!**
 
 3. Use border-radius on **buttons**, **images**, **around icons**, **standout sections** and **other elements**
+
+## \#7 WHITESPACE
+
+### WHY WHITESPACE
+
+1. The right amount of whitespace makes designs look **clean**, **modern** and **polished**
+
+2. Whitespace communicates how different pieces of information are **related to one another**
+
+3. Whitespace implies **invisible relationships between the elements** of a layout
+
+### WHERE TO USE WHITESPACE
+
+1. Use tons of whitespace between sections
+
+2. Use a lot of whitespace **between groups of elements**
+
+3. Use whitespace **between elements**
+
+4. Inside **groups of elements**, try to use whitespace **instead of lines**
+
+### HOW MUCH WHITESPACE
+
+1. **The more some elements** (or groups of elements) **belong together, the closer they should be!**
+
+   - **Law of Proximity:** Objects that are near, or proximate to each other, tend to be grouped together.
+
+2. Start with **a lot of whitespace**, maybe even too much! Then **remove whitespace** from there
+
+   - oo much whitespace looks **detached**, too little looks too **crammed**
+
+3. Match **other design choices**. If you have big text or big icons, you need more whitespace
+
+4. Try a hard rule, such as using **multiples of 16px** for all spacing
