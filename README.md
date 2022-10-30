@@ -353,7 +353,7 @@ Design decisions for each igredient are based on **website personality**
 
 4. Try a hard rule, such as using **multiples of 16px** for all spacing
 
-## \#7 VISUAL HIERARCHY
+## \#8 VISUAL HIERARCHY
 
 ### WHAT IS VISUAL HIERARCHY?
 
@@ -388,3 +388,77 @@ Design decisions for each igredient are based on **website personality**
 2. Try emphasizing some component A over component B by **de-emphasizing component B**
 
 3. What components to emphasize? **Testimonials**, **call-to-action sections**, **highlight sections**, **preview cards**, **forms**, **pricing tables**, **important rows/columns in tables**, etc.
+
+## \#9 USER EXPERIENCE (UX)
+
+### WHAT IS USER EXPERIENCE (UX)?
+
+> Design is not just what it **looks like
+> and feels like**. Design is **how it works**
+>
+> _– Steve Jobs_
+
+1. **User Interface (UI)** is the visual
+   presentation of a product. It’s how
+   the graphical interface looks and
+   feels like
+
+   - Layout
+   - Personality
+   - Typography, colors, icons, etc
+
+2. User Experience (UX) is the
+   overall experience the user has
+   while interacting with the product
+
+   - Does the app feel **logical** and well thought out?
+   - Does the navigation work **intuitively**?
+   - Are users **reaching their goals**?
+
+### UI AND UX DESIGN
+
+1. **UI** is graphical interface 👉 **UI Design** is
+   what makes an interface **beautiful**
+
+2. **UX** is experience with interface 👉 **UX
+   Design** is what makes an interface
+   **useful and functional**
+
+   `UX Design can not exist without UI Design!`
+
+### UX DESIGN GUIDING PRINCIPLE: GOALS
+
+1. A website or application **exists for a reason**: a user has a goal for **visiting** it, and a **business** has a goal for **creating** it
+
+   - Good UX design **aligns** the **user’s goals** with the
+     **business’ goals**
+
+### UX RULES FOR USABILITY
+
+1. Don’t design complicated layouts. Don’t reinvent
+   the wheel. **Use patterns that users know**
+
+2. Make your call-to-action the **most prominent
+   element**, and make the **text descriptive**
+
+3. Use **blue text** and **underlined text** only for **links**!
+4. Animations should have a **purpose** and be **fast**:
+   between 200 and 500 ms
+
+5. In forms, align labels and fields in a **single
+   vertical line**, to make the form **easier to scan**
+
+6. Offer users **good feedback** for all actions: form
+   errors, form success, etc. [web apps]
+
+7. Place action buttons where they will **create an
+   effect** (law of locality) [web apps]
+
+8. Use a **descriptive**, **keyword-focused headline** on your main page. Don’t be vague or fancy!
+
+9. Only include **relevant information**, efficiently! **Cut out fluff** and make the content 100% clear
+
+10. Use **simple words!** Avoid technical jargon and “smart-sounding” words
+
+11. Break up long text with **sub-headings**, **images**,
+    **block quotes**, **bullet points**, etc.
