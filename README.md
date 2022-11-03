@@ -462,3 +462,194 @@ Design decisions for each igredient are based on **website personality**
 
 11. Break up long text with **sub-headings**, **images**,
     **block quotes**, **bullet points**, etc.
+
+## \#10 THE WEBSITE-PERSONALITIESFRAMEWORK
+
+> RULES SHOULD BE APPLIED ACCORDING TO SELECTED WEBSITE PERSONALITY
+
+1. How do you want website to ppear to users? What **“vibe”** do you want to transmit?
+
+2. Choose one of the website personalities accordingly
+
+3. Apply personality traits to each design ingredient
+   - Typography
+   - Colors
+   - Images
+   - Icons
+   - Shadows
+   - Border-radius
+   - Layout
+
+### PERSONALITY 01 – SERIOUS/ELEGANT
+
+#### OVERVIEW
+
+Design for luxury and elegance, based on **thin serif typefaces, golden or pastel colors**, and big high-quality images
+
+#### INDUSTRIES
+
+Real estate, high fashion, jewelry, luxury products or services
+
+1. **TYPOGRAPHY:** Serif typefaces (especially in headings), light font weight, small body font size
+
+2. **COLORS:** Gold, pastel colors, black, dark blue or grey
+
+3. **IMAGES:** Big, high-quality images are used to feature elegant and expensive products
+
+4. **ICONS:** 🤷 Usually no icons, but thin icons and lines may be used
+
+5. **SHADOWS:** 🚫 Usually no shadows
+
+6. **BORDER-RADIUS:** 🚫 Usually no border-radius
+
+7. **LAYOUT:** A creative and experimental layout is quite common
+
+### PERSONALITY 02 – MINIMALIST/SIMPLE
+
+#### OVERVIEW
+
+Focusses on the essential text content, using small or mediumsized sans-serif black text, lines, and few images and icons
+
+#### INDUSTRIES
+
+Fashion, portfolios, minimalism companies, software startups
+
+1. **TYPOGRAPHY:** Boxy/squared sans-serif typefaces, small body font sizes
+
+2. **COLORS:** Usually black or dark grey, on pure white background. Usually just one color throughout the design
+
+3. **IMAGES:** Few images, which can be used to add some color to the design. Usually no illustrations, but if, than just black
+
+4. **ICONS:** 🤷 Usually no icons, but small simple black icons may be used
+
+5. **SHADOWS:** 🚫 Usually no shadows
+
+6. **BORDER-RADIUS:** 🚫 Usually no border-radius
+
+7. **LAYOUT:** Simple layout, a narrow one-column layout is quite common
+
+### PERSONALITY 03 – PLAIN/NEUTRAL
+
+#### OVERVIEW
+
+Design that gets out of the way by using **very neutral and
+small typefaces**, and a boxy, structured, and condensed layout
+
+#### INDUSTRIES
+
+Well-established corporations, companies that don’t want to
+make an impact through design
+
+1. **TYPOGRAPHY:** Neutral-looking sans-serif typefaces are used, and text is usually small and doesn’t have visual impact
+
+2. **COLORS:** Safe colors are employed, nothing too bright or to washed-out. Blues and blacks are common
+
+3. **IMAGES:** Images are frequently used, but usually in a small format
+
+4. **ICONS:** 🤷 Usually no icons, but simple icons may be used
+
+5. **SHADOWS:** 🚫 Usually no shadows
+
+6. **BORDER-RADIUS:** 🚫 Usually no border-radius
+
+7. **LAYOUT:** Structured and condensed layout, with lots of boxes and rows
+
+### PERSONALITY 04 – BOLD/CONFIDENT
+
+#### OVERVIEW
+
+Design that makes an impact, by featuring big and bold
+typography, paired with confident use of big colored blocks
+
+#### INDUSTRIES
+
+Digital agencies, software startups, travel, “strong" companies
+
+1. **TYPOGRAPHY:** Boxy/squared sans-serif typefaces, big and bold typography, especially headings. Uppercase headings are common
+
+2. **COLORS:** Usually multiple bright colors. Big color blocks/sections are used to draw attention
+
+3. **IMAGES:** Lots of big images are usually displayed
+
+4. **ICONS:** 🚫 Usually no icons
+
+5. **SHADOWS:** 🚫 Usually no shadows
+
+6. **BORDER-RADIUS:** 🚫 Usually no border-radius
+
+7. **LAYOUT:** 🤷 All kinds of layouts, no particular tendencies
+
+### PERSONALITY 05 – CALM/PEACEFUL
+
+#### OVERVIEW
+
+For products and services that care about the consumer, which
+is transmitted by calming pastel colors and soft serif headings
+
+#### INDUSTRIES
+
+Healthcare, all products with focus on consumer well-being
+
+1. **TYPOGRAPHY:** Soft serif typefaces frequently used for headings, but sansserif headings might be used too (e.g for software products)
+
+2. **COLORS:** Pastel/washed-out colors: light oranges, yellows, browns, greens, blues
+
+3. **IMAGES:** Images and illustrations are usual, matching calm color palette
+
+4. **ICONS:** ✅ Icons are quite frequent
+
+5. **SHADOWS:** 🤷 Usually no shadows, but might be used sparingly
+
+6. **BORDER-RADIUS:** ✅ Some border-radius is usual
+
+7. **LAYOUT:** 🤷 All kinds of layouts, no particular tendencies
+
+### PERSONALITY 06 – STARTUP/UPBEAT
+
+#### OVERVIEW
+
+Widely used in startups, featuring **medium-sized** sans-serif
+typefaces, **light-grey backgrounds**, and rounded elements
+
+#### INDUSTRIES
+
+Software startups, and other modern-looking companies
+
+1. **TYPOGRAPHY:** Medium-sized headings (not too large), usually one sans-serif typeface in whole design. Tendency for lighter text colors
+
+2. **COLORS:** Blues, greens and purples are widely used. Lots of light backgrounds (mainly gray), gradients are also common
+
+3. **IMAGES:** Images or illustrations are always used. 3D illustrations are modern. Sometimes patterns and shapes add visual details
+
+4. **ICONS:** ✅ Icons are very frequent
+
+5. **SHADOW:** ✅ Subtle shadows are frequent. Glows are becoming modern
+
+6. **BORDER-RADIUS:** ✅ Border-radius is very common
+
+7. **LAYOUT:** Rows of cards and Z-patterns are usual, as well as animations
+
+### PERSONALITY 07 – PLAYFUL/FUN
+
+#### OVERVIEW
+
+**Colorful and round** designs, fueled by **creative elements** like
+hand-drawn icons or illustrations, animations, and fun language
+
+#### INDUSTRIES
+
+Child products, animal products, food
+
+1. **TYPOGRAPHY:** Round and creative (e.g. handwritten) sans-serif typefaces are frequent. Centered text is more common
+
+2. **COLORS:** Multiple colors are frequently used to design a colorful layout, all over backgrounds and text
+
+3. **IMAGES:** Images, hand-drawn (or 3D) illustrations, and geometric shapes and patterns are all very frequently used
+
+4. **ICONS:** ✅ Icons are very frequent, many times in a hand-drawn style
+
+5. **SHADOWS:** ✅ Subtle shadows are quite common, but not always used
+
+6. **BORDER-RADIUS:** ✅ Border-radius is very common
+
+7. **LAYOUT:** 🤷 All kinds of layouts, no particular tendencies
