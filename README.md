@@ -653,3 +653,106 @@ Child products, animal products, food
 6. **BORDER-RADIUS:** ✅ Border-radius is very common
 
 7. **LAYOUT:** 🤷 All kinds of layouts, no particular tendencies
+
+---
+
+## THE 7 STEPS TO A GREAT WEBSITE
+
+### THE PROCESS BEHIND BUILDING A WEBSITE
+
+1. #### DEFINE THE PROJECT
+
+   - Define **WHO the website is for**. Is it for yourself? For a client of your agency or your freelancing business?
+
+   - Define **WHAT the website is for**. In other words, define **business and user goals** of your website project
+
+   > **Business goal example:** Selling premium dog food
+   >
+   > **User goal example:** Finding high-quality dog food for good price
+
+   - Define a target audience. Be really specific if possible and if it makes sense for your website (this can come from your client)
+
+   > **Example:** “Women, 20 to 40 years old, living in Europe, earning over 2000€/month, with a passion for dogs”
+
+2. #### PLAN THE PROJECT
+
+   - Plan and gather **website content**: copy (text), images, videos etc.
+
+   - Content is usually **provided by the client**, but you also can help them produce and find some content (simply finding free images is easiest, but if they want copy, charge them extra)
+
+   - For bigger sites, plan out the **sitemap**: what pages the site needs, and how they are related to one another (content hierarchy)
+
+   - Based on the content, plan what **sections** each page needs in order to convey the content’s message, and in which order
+
+   - Define the **website personality**
+
+3. #### SKETCH LAYOUT AND COMPONENT IDEAS
+
+   - Think about what **components** you need, and how you can use
+     them in **layout patterns**
+
+   - **Get ideas out of your head**: sketch them with **pen and paper** or with some design software (e.g. Figma )
+
+   - This is an **iterative process**: experiment with different
+     components and layouts, until you arrive at a first good solution
+
+   - You don’t need to sketch everything, and **don’t make it perfect**. At some point, you’re ready to jump into HTML and CSS
+
+4. #### DESIGN AND BUILD WEBSITE
+
+   - Use decisions, content and sketches from Steps 1, 2 and 3 to
+     **design and build the website with HTML and CSS** (“designing in
+     the browser”)
+
+   - You already have the **layout** and **components** that you selected in
+     Step 3. In this step, you need to design the actual **visual styles**
+
+   - Create the design based on selected **website personality**, the
+     **design guidelines** I showed you, and **inspiration**
+
+   - Use the **client’s branding** (it if exists already) for design decisions
+     whenever possible: **colors**, **typography**, **icons**, etc
+
+5. #### TEST AND OPTIMIZE
+
+   - Make sure website works well in **all major browsers** (Chrome,
+     Firefox, Safari, Edge, maybe even old IE 😱)
+
+   - Test the website on **actual mobile devices**, not just in DevTools
+
+   - Optimize all **images**, in terms of dimensions and file size (👋 See
+     images guidline)
+
+   - Fix simple **accessibility** problems (e.g. color contrast issues)
+
+   - Run the **Lighthouse** performance test in Chrome DevTools and try
+     to fix reported issues
+
+   - Think about **Search Engine Optimization** (SEO)
+
+6. #### LAUNCH THE MASTERPIECE 🚀
+
+   - Once all work is done, everything is perfect, and you got approval
+     from your client (or yourself 😁), **it’s time to share your
+     masterpiece with the world!**
+
+   - Upload your website files to a **hosting platform**. There are
+     countless platform, we will use one with a free plan (Netlify )
+
+   - Choose and buy a great **domain name**, one that represents the
+     brand well, is memorable and easy to write
+
+7. #### MAINTAIN AND KEEP UPDATING WEBSITE
+
+   - Launching is not the end…
+
+   - Keep the website content **updated over time**. If you’re working
+     with a client, you can create a monthly maintenance contract
+     (recurring revenue 🤑)
+
+   - Install **analytics software** (e.g. Google Analytics or Fathom) to get
+     statistics about website users. This may **inform future changes** in
+     the site structure and content.
+
+   - A **blog** that is updated regularly is a good way to keep users
+     coming back, and is also good for SEO.
