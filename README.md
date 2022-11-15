@@ -756,3 +756,49 @@ Child products, animal products, food
 
    - A **blog** that is updated regularly is a good way to keep users
      coming back, and is also good for SEO.
+
+## WHAT IS RESPONSIVE DESIGN?
+
+### RESPONSIVE DESIGN
+
+> Design technique to make a webpage adjust its layout and visual style to
+> **any possible screen size** (window or viewport size)
+>
+> In practice, this means that responsive design makes websites usable on
+> all devices, such as **desktop computers, tablets, and mobile phones**.
+>
+> It’s a set of practices, **not a separate technology.** It’s all just CSS!
+
+### RESPONSIVE DESIGN INGREDIENTS
+
+1. #### FLUID LAYOUTS
+
+   - To allow webpage to adapt to the **current viewport** width (or even height)
+
+   - Use % (or vh / vw) unit instead of px for elements
+     that **should adapt to viewport (usually layout)**
+
+   - Use max-width instead of width
+
+2. #### RESPONSIVE UNITS
+
+   - Use rem unit instead of px for most lengths
+
+   - To make it easy to **scale the entire layout down (or up) automatically**
+
+   - **Helpful trick:** setting 1rem to 10px for easy
+     calculations
+
+3. #### FLEXIBLE IMAGES
+
+   - By default, images **don’t scale automatically** as
+     we change the viewport, so we need to fix that
+
+   - Always use % for image dimensions, together
+     with the max-width property
+
+4. #### MEDIA QUERIES
+
+   - Bring responsive sites to life!
+
+   - To change CSS styles on **certain viewport widths** (called breakpoints)
