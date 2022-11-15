@@ -802,3 +802,22 @@ Child products, animal products, food
    - Bring responsive sites to life!
 
    - To change CSS styles on **certain viewport widths** (called breakpoints)
+
+### DESKTOP-FIRST VS. MOBILE-FIRST DEVELOPMENT
+
+1. #### DESKTOP-FIRST
+
+   - Start writing CSS for the desktop: **large screen**
+
+   - Then, media queries **shrink design** to smaller
+     screens.
+
+2. #### MOBILE-FIRST
+
+   - Start writing CSS for mobile devices: **small screen**
+
+   - Then, media queries **expand design** to a large
+     screen
+
+   - Forces us to reduce websites and apps to the
+     **absolute essentials**
